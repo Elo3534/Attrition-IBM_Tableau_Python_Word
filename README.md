@@ -9,3 +9,7 @@ Nous avons choisi d’analyser ce phénomène au sein d’IBM, une multinational
 L'objectif de cette étude est d'identifier les principaux facteurs responsables des départs chez IBM à travers des analyses statistiques sur les données des salariés. Comprendre l'impact de chaque variable sur l'attrition nous permettra de proposer des solutions et des recommandations pour diminuer leur impact sur les départs et ainsi réduire le phénomène d’attrition.
 Enfin, la construction d'un modèle de Machine Learning fournira un outil performant pour prédire les départs potentiels des salariés, facilitant ainsi la gestion anticipative de l'attrition au sein de l'entreprise.
 
+=> OUTILS UTILISES : 
+  - Python (pandas, numpy, matplotlib, seaborn, statsmodels,scipy, sklearn)
+  - Tableau
+  - Microsoft office word

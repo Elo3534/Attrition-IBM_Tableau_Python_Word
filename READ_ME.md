@@ -1,3 +1,7 @@
-![Texte alternatif](C:\GitHub\Attrition-IBM_Tableau_python_word\PRESENTATION-Attrition_IBM_EH.gif)
+
+
+![Texte alternatif](/PRESENTATION-Attrition_IBM_EH.gif)
+f-èi
+
 
 
